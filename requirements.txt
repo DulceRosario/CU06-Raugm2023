@@ -1,6 +1,5 @@
 numpy
 xarray
 matplotlib
-matplotlib.pyplot
 ipywidgets
 glob
