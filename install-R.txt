@@ -1,0 +1,5 @@
+install.packages("dplyr")
+install.packages("aire.zmvm")
+install.packages("ggplot2")
+install.packages("ggseas")
+install.packages('magrittr')
