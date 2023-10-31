@@ -2,4 +2,4 @@ numpy
 xarray
 matplotlib
 ipywidgets
-glob
+glob2
