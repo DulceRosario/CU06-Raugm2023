@@ -2,6 +2,7 @@ numpy
 netcdf4
 scipy
 xarray
+dask
 matplotlib
 ipywidgets
 glob2
